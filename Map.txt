@@ -1,0 +1,9 @@
+The OpenStreetMap area wrangled can be found in the URL below:
+http://www.openstreetmap.org/#map=12/2.9864/101.5748
+
+The map chosen for data wrangling is an area in the state of Selangor (Malaysia) with high 
+economic activity - covering Shah Alam, Subang Jaya and the government's new administrative 
+township Putrajaya.
+
+This area being my hometown, and the inclusion of the government's new administrative township 
+make an interesting database to query.
