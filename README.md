@@ -8,6 +8,8 @@ The project calls for the extraction, investigation and cleaning of a dataset of
 
 A final report (in HTML) captures key steps in the data wrangling process and interesting information from the OSM area extracted.   
 
+Overview of the project's Python files' functionalities:
+
 #### data.py
 Contains the main function to clean XML data by calling on sub-functions imported from  other Python files. Contains code to format the source XML data into CSV.
 
