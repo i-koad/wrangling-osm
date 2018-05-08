@@ -1,0 +1,12 @@
+REFERENCES:
+===========
+https://stackoverflow.com/questions/613183/how-to-sort-a-dictionary-by-value
+https://discussions.udacity.com/t/blanks-row-in-csv-after-exporting-the-files-from-osm-file/293544/2
+https://discussions.udacity.com/t/creating-db-file-from-csv-files-with-non-ascii-unicode-characters/174958/7
+http://www.sqlitetutorial.net/sqlite-python/sqlite-python-select/
+https://www.daniweb.com/programming/software-development/threads/124403/sqlite3-how-to-see-column-names-for-table#post616109
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#data-overview-and-additional-ideas
+https://www.sqlite.org/faq.html#q11
+https://stackoverflow.com/questions/4253804/insert-new-column-into-table-in-sqlite
+https://stackoverflow.com/a/46861301
+http://www.sqlitetutorial.net/sqlite-functions/sqlite-substr/
